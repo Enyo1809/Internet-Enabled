@@ -1,0 +1,72 @@
+.html {
+    background-image:url(../images/ComputerDesktopWallpapersCollection1254__021.jpg);
+    
+}
+
+.navcolor{
+    color: aqua;
+}
+
+.navbar{
+
+    height: 30px;
+    width: 60%;
+   background-color:floralwhite;
+    padding-top: 0 ;
+    border-style: inset;
+    padding: 10px;
+    margin-left: 250px;
+    background-image: url(../images/b23e675e-3807-46d7-a13a-bc5e24b80da4_560_420.jpg);
+    
+    
+ 
+    
+}
+
+
+.navbar a{
+    
+    display: inline-block;
+    margin-left: 40px;
+} 
+.content {
+    width: 55%;
+    height: 500px;
+    background-color: white;
+    margin-left: 290px;
+    padding: 10px;
+    
+}
+
+.welcome h1{
+    font-style: italic;
+}
+
+.about me h3{
+    
+}
+.address h3{
+    
+}
+.gallery h1{
+    
+}
+.table{
+    outline-width: thick;
+    border-color: black;
+    
+}
+
+.footer{
+    
+    height: 20px;
+    width: 60%;
+   background-color: white;
+    padding-top: 0 ;
+    margin-left: 250px;
+     border-style: inset;
+    padding: 10px;
+    background-image: url(../images/b23e675e-3807-46d7-a13a-bc5e24b80da4_560_420.jpg);
+    
+    
+}
